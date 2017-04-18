@@ -1,0 +1,20 @@
+/**
+ *
+ * @author Hisham
+ */
+public class MyFirstNetbeansApp {
+
+    /** 
+     * Lyrics for Rick Astley Never Gonna Give You Up 
+     */
+    public static void main(String[] args) {
+        // Main Chorus.
+        System.out.println("Never Gonna Give You Up"); // First lyrics by Rick Astley.
+        System.out.println("Never Gonna Let You Down"); // Second lyrics by Rick Astley. 
+        System.out.println("Never Run Around and Desert You"); // Third lyrics by Rick Astley. 
+        System.out.println("Never Gonna Make You Cry"); // Fourth lyrics by Rick Astley. 
+        System.out.println("Never Gonna Say Goodbye"); // Fifth lyrics by Rick Astley. 
+        System.out.println("Never Gonna Tell a Lie and Hurt You"); // Sixth lyrics by Rick Astley. 
+    }
+    
+}
