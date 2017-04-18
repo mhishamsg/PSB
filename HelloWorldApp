@@ -1,0 +1,9 @@
+// HelloWorldApp class implements as application that displays "Hello World!" on the computer screen.
+public class HelloWorldApp
+{
+	public static void main(String args[]) {
+		
+// displays the given message
+System.out.println("Hello The People of the World! We come in pieces!");
+	}
+}
